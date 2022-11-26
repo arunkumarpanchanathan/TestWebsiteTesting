@@ -1,0 +1,651 @@
+2022-11-19 11:56:38 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:56:38 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:56:38 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:56:39 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:56:39 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:56:39 INFO  Logging:27 - Tab pressed
+2022-11-19 11:56:40 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 11:56:40 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:56:41 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:56:41 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:56:41 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:56:42 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:56:42 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:56:42 INFO  Logging:27 - Tab pressed
+2022-11-19 11:56:43 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 11:56:43 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:56:45 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:56:45 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:56:45 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:56:46 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:56:51 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:56:52 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:56:55 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 11:56:55 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:56:56 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:56:56 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:56:56 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:56:57 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:56:58 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:56:58 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:02 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 11:57:02 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:04 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:04 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:04 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:04 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:57:05 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:05 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:06 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 11:57:07 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:08 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:08 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 11:57:08 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:10 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:10 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:10 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:10 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:57:16 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:17 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:18 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 11:57:18 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:20 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:20 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 11:57:20 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:22 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:22 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:22 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:23 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:57:23 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:24 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:25 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 11:57:27 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 11:57:30 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 11:57:30 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:31 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:31 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:31 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:32 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 11:57:32 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 11:57:33 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 11:57:34 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 11:57:36 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 11:57:39 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 11:57:39 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:41 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:41 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:41 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:42 INFO  Logging:27 - Link clicked - Test
+2022-11-19 11:57:44 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-19 11:57:44 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-19 11:57:45 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-19 11:57:45 INFO  Logging:21 - *** TestCase End**
+2022-11-19 11:57:46 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 11:57:46 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 11:57:46 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 11:57:46 INFO  Logging:27 - Link clicked - Courses
+2022-11-19 11:57:47 INFO  Logging:27 - Button clicked - View Details
+2022-11-19 11:57:58 INFO  Logging:27 - Apply now button is not displayed
+2022-11-19 11:57:58 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:03:23 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:03:23 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:03:23 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:03:24 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:03:24 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:03:24 INFO  Logging:27 - Tab pressed
+2022-11-19 12:03:24 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:03:24 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:03:25 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:03:25 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:03:25 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:03:26 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:03:27 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:03:27 INFO  Logging:27 - Tab pressed
+2022-11-19 12:03:27 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:03:27 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:03:29 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:03:29 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:03:29 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:03:30 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:03:30 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:03:31 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:05:56 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:05:56 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:05:56 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:05:57 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:34 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:07:34 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:07:34 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:07:34 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:35 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:07:35 INFO  Logging:27 - Tab pressed
+2022-11-19 12:07:35 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:07:35 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:07:36 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:07:36 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:07:36 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:07:37 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:37 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:07:37 INFO  Logging:27 - Tab pressed
+2022-11-19 12:07:37 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:07:37 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:07:40 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:07:40 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:07:40 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:07:40 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:41 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:07:41 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:07:45 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:07:45 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:07:46 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:07:46 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:07:46 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:07:46 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:47 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:07:47 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:07:51 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:07:51 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:07:53 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:07:53 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:07:53 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:07:53 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:07:54 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:07:54 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:08:25 INFO  Logging:27 - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (1b418c72366f2867f96ed65d59c32dc1)] -> xpath: //*[@rel-name='SignupLoginEditPhoneCTA']] (tried for 30 second(s) with 5000 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GAURAV3152712', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\GAURAV~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b418c72366f2867f96ed65d59c32dc1
+2022-11-19 12:08:25 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:08:27 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:08:27 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:08:27 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:08:27 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:08:28 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:08:29 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:08:30 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:08:32 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:08:35 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:08:35 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:08:37 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:08:37 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:08:37 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:08:38 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:08:38 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:08:39 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:08:40 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:08:42 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:08:45 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:08:45 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:08:49 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:08:49 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:08:49 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:09:19 INFO  Logging:27 - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (1b418c72366f2867f96ed65d59c32dc1)] -> id: Tests] (tried for 30 second(s) with 5000 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GAURAV3152712', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\GAURAV~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b418c72366f2867f96ed65d59c32dc1
+2022-11-19 12:09:19 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:09:21 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:09:21 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:09:21 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:31 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:31 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:31 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:32 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:33 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:33 INFO  Logging:27 - Tab pressed
+2022-11-19 12:10:33 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:10:33 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:10:34 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:34 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:34 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:35 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:35 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:36 INFO  Logging:27 - Tab pressed
+2022-11-19 12:10:36 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:10:36 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:10:38 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:38 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:38 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:39 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:39 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:40 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:10:43 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:10:43 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:10:44 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:44 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:44 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:45 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:45 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:46 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:10:49 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:10:49 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:10:51 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:51 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:51 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:52 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:52 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:53 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:10:54 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:10:54 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:55 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:10:56 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:10:56 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:10:57 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:10:57 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:10:57 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:10:57 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:10:58 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:10:58 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:10:59 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:11:00 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:11:01 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:11:02 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:11:02 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:11:03 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:11:03 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:11:03 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:11:04 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:11:05 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:11:05 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:11:07 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:11:08 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:11:12 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:11:12 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:11:13 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:11:13 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:11:13 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:11:13 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:11:14 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:11:14 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:11:15 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:11:17 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:11:20 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:11:20 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:11:22 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:11:22 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:11:22 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:11:23 INFO  Logging:27 - Link clicked - Test
+2022-11-19 12:11:25 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-19 12:11:26 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-19 12:11:26 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-19 12:11:26 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:11:27 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:11:27 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:11:27 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:11:28 INFO  Logging:27 - Link clicked - Courses
+2022-11-19 12:11:28 INFO  Logging:27 - Button clicked - View Details
+2022-11-19 12:11:39 INFO  Logging:27 - Apply now button is not displayed
+2022-11-19 12:11:39 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:19 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:19 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:19 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:20 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:21 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:21 INFO  Logging:27 - Tab pressed
+2022-11-19 12:12:21 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:12:21 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:22 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:22 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:22 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:23 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:23 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:23 INFO  Logging:27 - Tab pressed
+2022-11-19 12:12:23 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:12:23 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:26 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:26 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:26 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:27 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:28 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:28 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:31 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:12:31 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:33 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:33 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:33 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:34 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:34 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:35 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:38 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:12:38 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:40 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:40 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:40 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:41 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:41 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:42 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:43 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:12:43 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:45 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:45 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:12:45 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:46 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:46 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:46 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:47 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:47 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:48 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:49 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:12:49 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:51 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:51 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:12:51 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:12:53 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:12:53 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:12:53 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:12:54 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:12:54 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:12:55 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:12:56 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:12:58 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:13:01 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:13:01 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:13:02 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:13:02 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:13:02 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:13:02 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:13:03 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:13:04 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:13:04 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:13:06 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:13:09 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:13:09 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:13:11 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:13:11 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:13:11 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:13:12 INFO  Logging:27 - Link clicked - Test
+2022-11-19 12:13:14 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-19 12:13:16 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-19 12:13:16 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-19 12:13:16 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:13:17 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:13:17 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:13:17 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:13:18 INFO  Logging:27 - Link clicked - Courses
+2022-11-19 12:13:18 INFO  Logging:27 - The element reference of <button class="font-semibold px-12 py-3 flex flex-row justify-center items-center border border-main-primary rounded-md text-main-primary text-xs hover:bg-secondary-light"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GAURAV3152712', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 107.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20221110173214, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12344, moz:profile: C:\Users\GAURAV~1\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d06855cf-7bff-4e42-a29a-0d146fc9679f
+2022-11-19 12:13:18 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:20 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:20 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:20 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:20 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:21 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:21 INFO  Logging:27 - Tab pressed
+2022-11-19 12:14:21 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:14:21 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:22 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:22 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:22 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:23 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:29 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:29 INFO  Logging:27 - Tab pressed
+2022-11-19 12:14:29 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-19 12:14:29 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:31 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:31 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:31 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:32 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:32 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:33 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:36 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:14:36 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:38 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:38 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:38 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:38 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:39 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:40 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:43 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-19 12:14:43 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:45 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:45 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:45 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:45 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:46 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:46 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:47 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:14:48 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:49 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:49 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:14:49 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:50 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:50 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:50 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:51 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:52 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:52 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:53 INFO  Logging:27 - Link clicked - Edit
+2022-11-19 12:14:54 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:55 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:14:55 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-19 12:14:55 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:14:57 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:14:57 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:14:57 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:14:58 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:14:58 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:14:59 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:15:00 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:15:02 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:15:05 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:15:05 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:15:06 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:15:06 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:15:06 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:15:06 INFO  Logging:27 - Link clicked - Login link
+2022-11-19 12:15:07 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-19 12:15:08 INFO  Logging:27 - Button clicked - Login button
+2022-11-19 12:15:09 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-19 12:15:10 INFO  Logging:27 - Button clicked - Continue
+2022-11-19 12:15:14 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-19 12:15:14 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:15:15 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:15:15 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:15:15 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:15:16 INFO  Logging:27 - Link clicked - Test
+2022-11-19 12:15:18 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-19 12:15:19 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-19 12:15:19 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-19 12:15:19 INFO  Logging:21 - *** TestCase End**
+2022-11-19 12:15:20 INFO  Logging:13 - ****************************************************************************************
+2022-11-19 12:15:20 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-19 12:15:20 INFO  Logging:15 - ****************************************************************************************
+2022-11-19 12:15:21 INFO  Logging:27 - Link clicked - Courses
+2022-11-19 12:15:22 INFO  Logging:27 - Button clicked - View Details
+2022-11-19 12:15:32 INFO  Logging:27 - Apply now button is not displayed
+2022-11-19 12:15:32 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:10 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:10 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:10 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:11 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:12 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:12 INFO  Logging:27 - Tab pressed
+2022-11-20 12:04:12 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-20 12:04:12 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:15 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:15 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:15 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:16 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:17 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:17 INFO  Logging:27 - Tab pressed
+2022-11-20 12:04:17 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-20 12:04:17 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:19 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:19 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:19 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:20 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:21 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:22 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:25 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-20 12:04:25 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:27 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:27 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:27 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:28 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:29 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:29 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:33 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-20 12:04:33 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:36 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:36 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:36 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:37 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:38 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:38 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:39 INFO  Logging:27 - Link clicked - Edit
+2022-11-20 12:04:39 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:41 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:41 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-20 12:04:41 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:43 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:43 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:43 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:44 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:44 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:45 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:46 INFO  Logging:27 - Link clicked - Edit
+2022-11-20 12:04:46 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:48 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:48 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-20 12:04:48 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:04:50 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:04:50 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:04:50 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:04:50 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:04:51 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:04:52 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:04:53 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-20 12:04:55 INFO  Logging:27 - Button clicked - Continue
+2022-11-20 12:04:58 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-20 12:04:58 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:05:00 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:05:00 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:05:00 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:05:00 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:05:01 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:05:02 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:05:03 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-20 12:05:04 INFO  Logging:27 - Button clicked - Continue
+2022-11-20 12:05:08 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-20 12:05:08 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:05:09 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:05:09 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:05:09 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:05:10 INFO  Logging:27 - Link clicked - Test
+2022-11-20 12:05:12 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-20 12:05:14 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-20 12:05:14 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-20 12:05:14 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:05:14 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:05:14 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:05:14 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:05:16 INFO  Logging:27 - element click intercepted: Element <a href="/courses" style="">...</a> is not clickable at point (621, 27). Other element would receive the click: <div class="styles_overlay__DNWZT undefined"></div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'predator', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-131-generic', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: /tmp/.com.google.Chrome.sFd6SC}, goog:chromeOptions: {debuggerAddress: localhost:43075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d445434b777945cb57ab3778071bfe26
+2022-11-20 12:05:16 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:11 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:11 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:11 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:12 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:12 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:13 INFO  Logging:27 - Tab pressed
+2022-11-20 12:46:13 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-20 12:46:13 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:16 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:16 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC001-This test verifies user see a validation message when invalid mobile number entered for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:16 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:17 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:17 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:17 INFO  Logging:27 - Tab pressed
+2022-11-20 12:46:18 INFO  Logging:27 - Please enter valid mobile number validation message is displayed 
+2022-11-20 12:46:18 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:20 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:20 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:20 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:21 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:21 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:22 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:25 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-20 12:46:25 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:27 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:27 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC002-This test verify user can click login button when valid mobile number is provided       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:27 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:27 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:28 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:29 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:32 INFO  Logging:27 - We've sent an OTP to your mobile number success message is displayed
+2022-11-20 12:46:32 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:34 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:34 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:34 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:34 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:35 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:36 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:38 INFO  Logging:27 - Link clicked - Edit
+2022-11-20 12:46:38 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:39 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:39 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-20 12:46:39 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:41 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:41 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC003-This test verify user can edit and login with new mobile number       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:41 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:41 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:42 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:43 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:44 INFO  Logging:27 - Link clicked - Edit
+2022-11-20 12:46:45 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:46 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:46 INFO  Logging:27 - Sent an OTP to your mobile number message is displayed
+2022-11-20 12:46:46 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:48 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:48 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:48 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:48 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:49 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:46:50 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:46:51 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-20 12:46:53 INFO  Logging:27 - Button clicked - Continue
+2022-11-20 12:46:56 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-20 12:46:56 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:46:58 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:46:58 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC004-This test verify validation message is shown when user enter invalid OTP for login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:46:58 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:46:58 INFO  Logging:27 - Link clicked - Login link
+2022-11-20 12:46:59 INFO  Logging:27 - Text entered - Mobile Number textbox
+2022-11-20 12:47:00 INFO  Logging:27 - Button clicked - Login button
+2022-11-20 12:47:01 INFO  Logging:27 - Text entered - OTP textbox
+2022-11-20 12:47:02 INFO  Logging:27 - Button clicked - Continue
+2022-11-20 12:47:06 INFO  Logging:27 - This OTP is incorrect message is displayed
+2022-11-20 12:47:06 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:47:07 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:47:07 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC005-This test verify user can view a test from Test tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:47:07 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:47:08 INFO  Logging:27 - Link clicked - Test
+2022-11-20 12:47:11 INFO  Logging:27 - Link clicked - Frontend Development Test
+2022-11-20 12:47:12 INFO  Logging:27 - Button clicked - Book your free slot
+2022-11-20 12:47:13 INFO  Logging:27 - Sign up or login screen displayed
+2022-11-20 12:47:13 INFO  Logging:21 - *** TestCase End**
+2022-11-20 12:47:13 INFO  Logging:13 - ****************************************************************************************
+2022-11-20 12:47:13 INFO  Logging:14 - $$$$$$$$$$$$$$$$$$$$$                 TC006-This test verify user can view a tests from Courses tab       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-20 12:47:13 INFO  Logging:15 - ****************************************************************************************
+2022-11-20 12:47:15 INFO  Logging:27 - element click intercepted: Element <a href="/courses" style="">...</a> is not clickable at point (621, 27). Other element would receive the click: <div class="styles_overlay__DNWZT undefined"></div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'predator', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-131-generic', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: /tmp/.com.google.Chrome.gQldIs}, goog:chromeOptions: {debuggerAddress: localhost:33213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f2d3955a66e374adb139855e261b22a
+2022-11-20 12:47:15 INFO  Logging:21 - *** TestCase End**
